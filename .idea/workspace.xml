@@ -1,48 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fba0f7a2-b3a3-4d1c-bd16-f4f575f5f676" name="更改" comment="加入漫画漫画说明图" />
+    <list default="true" id="c8447fd5-d9bb-4ef1-98a1-f13e2f086234" name="更改" comment="update 6.0.0 images">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../app/Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2S5mSJ0t66mFaO68P0b1fQjtKM6" />
+  <component name="ProjectId" id="2RNl61TQNE1RMdhoiCQICyCwBDW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="ImageHub" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="ImageHub" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="fba0f7a2-b3a3-4d1c-bd16-f4f575f5f676" name="更改" comment="" />
-      <created>1688444815103</created>
+      <changelist id="c8447fd5-d9bb-4ef1-98a1-f13e2f086234" name="更改" comment="" />
+      <created>1687098241185</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1688444815103</updated>
-      <workItem from="1688444816614" duration="378000" />
+      <updated>1687098241185</updated>
+      <workItem from="1687098243120" duration="38000" />
+      <workItem from="1687102036699" duration="59000" />
+      <workItem from="1717253506837" duration="53000" />
+      <workItem from="1717254182651" duration="18000" />
+      <workItem from="1727856321642" duration="58000" />
+      <workItem from="1740923761686" duration="96000" />
+      <workItem from="1743409814629" duration="188000" />
     </task>
-    <task id="LOCAL-00001" summary="加入漫画漫画说明图">
-      <created>1688444854234</created>
+    <task id="LOCAL-00001" summary="更新漫画翻译介绍图, 19群">
+      <created>1687098271300</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1688444854234</updated>
+      <updated>1687098271300</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="更新漫画翻译介绍图, 19群">
+      <created>1687102047538</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687102047538</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update 5.2.2">
+      <created>1717253548165</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717253548165</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update 5.2.2">
+      <created>1717254192620</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717254192620</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update 5.4.0">
+      <created>1727856367526</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727856367526</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update new qq group image">
+      <created>1740923845841</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740923845841</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update 6.0.0 images">
+      <created>1743409906139</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743409906139</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,7 +135,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="加入漫画漫画说明图" />
-    <option name="LAST_COMMIT_MESSAGE" value="加入漫画漫画说明图" />
+    <MESSAGE value="更新漫画翻译介绍图, 19群" />
+    <MESSAGE value="update 4.5.7" />
+    <MESSAGE value="update 5.2.2" />
+    <MESSAGE value="update 5.4.0" />
+    <MESSAGE value="update new qq group image" />
+    <MESSAGE value="update 6.0.0 images" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 6.0.0 images" />
   </component>
 </project>
