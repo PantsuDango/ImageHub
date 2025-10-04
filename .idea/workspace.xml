@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8447fd5-d9bb-4ef1-98a1-f13e2f086234" name="更改" comment="update 6.0.0 images">
+    <list default="true" id="c8447fd5-d9bb-4ef1-98a1-f13e2f086234" name="更改" comment="update 6.0.3 images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +67,7 @@
       <workItem from="1727856321642" duration="58000" />
       <workItem from="1740923761686" duration="96000" />
       <workItem from="1743409814629" duration="188000" />
+      <workItem from="1755654596233" duration="201000" />
     </task>
     <task id="LOCAL-00001" summary="更新漫画翻译介绍图, 19群">
       <created>1687098271300</created>
@@ -117,7 +118,77 @@
       <option name="project" value="LOCAL" />
       <updated>1743409906139</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update 6.0.0 images">
+      <created>1755654607870</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1755654607870</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update 6.0.3 images">
+      <created>1755654621316</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1755654621316</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update 6.0.3 images">
+      <created>1755654626523</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1755654626523</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update 6.0.3 images">
+      <created>1755654634580</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1755654634580</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update 6.0.3 images">
+      <created>1755654641218</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1755654641218</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update 6.0.3 images">
+      <created>1755654649975</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1755654649975</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update 6.0.3 images">
+      <created>1755654656599</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1755654656599</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update 6.0.3 images">
+      <created>1755654666081</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1755654666081</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update 6.0.3 images">
+      <created>1755654686950</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1755654686950</updated>
+    </task>
+    <task id="LOCAL-00017" summary="update 6.0.3 images">
+      <created>1755654906029</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1755654906029</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +212,7 @@
     <MESSAGE value="update 5.4.0" />
     <MESSAGE value="update new qq group image" />
     <MESSAGE value="update 6.0.0 images" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 6.0.0 images" />
+    <MESSAGE value="update 6.0.3 images" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 6.0.3 images" />
   </component>
 </project>
